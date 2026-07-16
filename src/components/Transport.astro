@@ -30,6 +30,17 @@ const section = messages.transportSection;
       </div>
     </div>
 
+    <!-- Plus Code copy -->
+    <div class="rounded-2xl p-4 md:p-5 mb-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 border" style="background: var(--bg-tertiary); border-color: var(--border-color);">
+      <div>
+        <p class="text-xs uppercase tracking-[0.18em]" style="color: var(--text-muted);">{section.coordsLabel ?? 'Plus Code'}</p>
+        <p class="text-lg font-semibold mt-1" style="color: var(--text-primary);">H2J3+34 <span class="text-sm font-normal" style="color: var(--text-secondary);">{section.coordsCity ? '· ' + section.coordsCity : ''}</span></p>
+      </div>
+      <button type="button" data-copy="H2J3+34" class="shrink-0 inline-flex items-center gap-2 px-5 py-2.5 rounded-full font-medium text-white transition-transform hover:scale-[1.03]" style="background: var(--accent);" aria-label={section.copyLabel}>
+        📋 <span>{section.copyLabel ?? 'Copy'}</span>
+      </button>
+    </div>
+
     <!-- Mode cards -->
     <div class="grid md:grid-cols-2 gap-6">
       {section.modes.map((mode, index) => (

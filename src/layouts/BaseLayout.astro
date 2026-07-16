@@ -78,6 +78,38 @@ const jsonLd = {
       ],
     };
   })();
+
+  const parkLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Park',
+    '@id': 'https://marronnierparkkorea.com/#park',
+    name: attractionName,
+    alternateName: ['마로니에 공원', 'Marronnier Park', '马罗尼埃公园'],
+    description: messages.meta.description,
+    url: canonical,
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: '1 Daehak-ro 8-gil',
+      addressLocality: 'Jongno District',
+      addressRegion: 'Seoul',
+      postalCode: '03087',
+      addressCountry: 'KR',
+    },
+    geo: {
+      '@type': 'GeoCoordinates',
+      latitude: 37.5817,
+      longitude: 127.0025,
+    },
+    isAccessibleForFree: true,
+    publicAccess: true,
+    openingHoursSpecification: {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+      opens: '00:00',
+      closes: '23:59',
+    },
+    sameAs: ['https://maps.app.goo.gl/iLuGhMduwgKSFsTw7'],
+  };
 ---
 
 <!doctype html>
@@ -110,6 +142,7 @@ const jsonLd = {
 
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)}></script>
     <script type="application/ld+json" is:inline set:html={JSON.stringify(breadcrumbLd)}></script>
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(parkLd)}></script>
 
     <script is:inline>
       (function () {
@@ -131,5 +164,31 @@ const jsonLd = {
       <slot />
     </main>
     <Footer />
+    <script is:inline>
+      (function () {
+        document.querySelectorAll('[data-copy]').forEach(function (btn) {
+          btn.addEventListener('click', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            var code = btn.getAttribute('data-copy') || '';
+            if (!code) return;
+            var prev = btn.getAttribute('data-label') || btn.textContent;
+            btn.setAttribute('data-label', prev);
+            var done = function () {
+              btn.textContent = '✓';
+              setTimeout(function () { btn.textContent = prev; }, 1500);
+            };
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+              navigator.clipboard.writeText(code).then(done).catch(function () {});
+            } else {
+              var ta = document.createElement('textarea');
+              ta.value = code; document.body.appendChild(ta); ta.select();
+              try { document.execCommand('copy'); done(); } catch (err) {}
+              document.body.removeChild(ta);
+            }
+          });
+        });
+      })();
+    </script>
   </body>
 </html>

@@ -108,7 +108,8 @@
       "seaGlare": "Sunrise tip: the east side of Daehak-ro catches the morning light first; chestnut boulevards and sculptures show the best layering in raking sun. Mornings are cold in autumn and winter, so dress warmly against the breeze.",
       "arriveLabel": "Arrive by",
       "blueHourLabel": "Blue hour",
-      "lightCaption": "Light calculated live by Open-Meteo"
+      "lightCaption": "Light calculated live by Open-Meteo",
+      "countdownHint": "Until golden hour (live countdown)"
     }
   },
   "quickFactsDashboard": {
@@ -546,6 +547,11 @@
         "content": "Today's Daehak-ro (대학로) literally means 'University Street.' After Seoul National University (SNU) was founded in 1946, its main campus and colleges of humanities stood here, making the district once home to Korea's top university. When SNU moved to Gwanak-gu in 1975, the leftover campus greenery and shade became the foundation for Daehak-ro's later transformation into a performing-arts district."
       },
       {
+        "id": "redbrick",
+        "title": "Red-brick Aesthetics & Master Architect Kim Swoo-geun",
+        "content": "The iconic red-brick buildings surrounding the park embody a microcosm of modern Korean architectural history. After Seoul National University relocated in the 1970s, Kim Swoo-geun (김수근), a towering figure of modern Korean architecture, designed the adjacent ARKO Art Theater and ARKO Art Center. To pay homage to the surviving former SNU main hall (completed in 1928 by pioneering architect Park Kil-yong, now the 'Arko Art Center' / Artists' House), he adopted red brick as a unifying façade language, establishing the warm, humanist 'red-brick district' visual identity of Daehak-ro."
+      },
+      {
         "id": "name",
         "title": "The name 'Marronnier' & the horse-chestnut",
         "content": "'Marronnier' (마로니에) is the French word for the European horse-chestnut. Rows of horse-chestnut trees were planted across the old SNU campus, forming leafy arcades. The park takes its name from these trees that witnessed campus years, interlocking toponym, trees, and city memory on the same green space."
@@ -798,6 +804,12 @@
         "url": "https://culture.seoul.go.kr/culture/culture/cultureSpace/view.do?facCode=102402&menuNo=200119",
         "operator": "Seoul Metropolitan Government Cultural Affairs Bureau",
         "desc": "Focuses on the park’s core “Outdoor Performance Stage (야외무대)”, including cultural equipment setup, nearby transit and official data."
+      },
+      {
+        "name": "Seoul National University Archives (SNU Archives) · Former Daehak-ro Campus History",
+        "url": "https://archives.snu.ac.kr/",
+        "operator": "Seoul National University",
+        "desc": "SNU’s official university archives, documenting the institution’s relocation from Keijō Imperial University to the present day, including historical records of the former Daehak-ro campus (1946–1975) — the most authoritative academic source for the park’s ties to Seoul National University."
       }
     ],
     "disclaimer": "This website is an independent non-profit visitor-information project. We are not affiliated with any government agency or official organization.",

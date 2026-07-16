@@ -418,6 +418,31 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/* Golden-hour live light-status breathing dot */
+.light-dot {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0;
+  background: #8fb8d6;
+}
+.light-dot.is-best { background: #f5c451; animation: breatheGold 2.2s ease-in-out infinite; }
+.light-dot.is-night { background: #2b3a6b; animation: breatheBlue 2.4s ease-in-out infinite; }
+.light-dot.is-day { background: #8fb8d6; animation: breatheSoft 3s ease-in-out infinite; }
+@keyframes breatheGold {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(245, 196, 81, 0.45); }
+  50% { box-shadow: 0 0 12px 4px rgba(245, 196, 81, 0.6); }
+}
+@keyframes breatheBlue {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(43, 58, 107, 0.45); }
+  50% { box-shadow: 0 0 12px 4px rgba(43, 58, 107, 0.7); }
+}
+@keyframes breatheSoft {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(143, 184, 214, 0.4); }
+  50% { box-shadow: 0 0 9px 3px rgba(143, 184, 214, 0.5); }
+}
+
 /* Gallery grid + lightbox */
 .gallery-grid {
   display: grid;

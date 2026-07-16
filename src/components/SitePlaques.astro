@@ -59,7 +59,7 @@ const { embedded = false } = Astro.props;
             </article>
 
             <!-- Back: Chinese Translation & Explanation -->
-            <article class="flip-card-back p-6 sm:p-8 border overflow-y-auto" style="background: var(--bg-tertiary); border-color: var(--border-color);">
+            <article class="flip-card-back p-6 sm:p-8 border overflow-y-auto plaque-back" style="background: linear-gradient(135deg, var(--bg-tertiary), color-mix(in srgb, var(--accent) 14%, var(--bg-tertiary))); border-color: var(--border-color);">
               <h4 class="font-semibold text-lg mb-3" style="color: var(--text-primary);">{it.title}</h4>
               {it.location && (
                 <p class="inline-flex items-center gap-1.5 text-xs mb-3 px-3 py-1.5 rounded-full" style="background: color-mix(in srgb, var(--accent) 12%, transparent); color: var(--text-secondary);">
@@ -96,7 +96,7 @@ const { embedded = false } = Astro.props;
               </div>
             </article>
 
-            <article class="flip-card-back p-6 sm:p-8 border overflow-y-auto" style="background: var(--bg-tertiary); border-color: var(--border-color);">
+            <article class="flip-card-back p-6 sm:p-8 border overflow-y-auto plaque-back" style="background: linear-gradient(135deg, var(--bg-tertiary), color-mix(in srgb, var(--accent) 14%, var(--bg-tertiary))); border-color: var(--border-color);">
               <h4 class="font-semibold text-lg mb-3" style="color: var(--text-primary);">{it.title}</h4>
               {it.location && (
                 <p class="inline-flex items-center gap-1.5 text-xs mb-3 px-3 py-1.5 rounded-full" style="background: color-mix(in srgb, var(--accent) 12%, transparent); color: var(--text-secondary);">
