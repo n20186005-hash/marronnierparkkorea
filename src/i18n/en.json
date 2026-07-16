@@ -1,0 +1,1306 @@
+{
+  "meta": {
+    "title": "Marronnier Park (마로니에 공원) | Jongno-gu, Seoul · Seoul's cultural theater park, street-performance hub & sculpture garden",
+    "description": "The complete guide to Marronnier Park (마로니에 공원, Korean: Marronnier Park): a cultural urban park at the heart of Daehak-ro (대학로), Jongno-gu, Seoul — Seoul's most representative performing-arts district. The green space grew out of the old Seoul National University (SNU) campus: SNU stood here from 1946 to 1975, and after moving to Gwanak-gu the area became Daehak-ro, Korea's 'Street of Drama.' Named for the rows of horse-chestnut trees (마로니에, French marronnier) that lined the old campus, the park keeps an open-air stage, a sculpture garden, and spreading shade — free and open 24 hours all year. Whether you come for street performances, small theaters, urban greenery, or Seoul's artistic atmosphere, this is Daehak-ro's most relaxed green living room. Hours, transport, history, photo spots, and visitor reviews all in one place."
+  },
+  "header": {
+    "siteName": "Marronnier Park (Daehak-ro)",
+    "home": "Home",
+    "visit": "Visit",
+    "transport": "Transport",
+    "lodging": "Stay",
+    "history": "History",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "map": "Map",
+    "backToHome": "Back to home"
+  },
+  "common": {
+    "changeLanguage": "Change language",
+    "toggleTheme": "Toggle theme"
+  },
+  "nonprofitBanner": {
+    "text": "This is a non-profit independent guide put together by enthusiastic travelers, offering the most objective information on Marronnier Park free of charge, and affiliated with no organization.",
+    "dataSource": "All information on this site is cross-checked against public materials from the Seoul Metropolitan Government, Jongno-gu Office, and the Korea Tourism Organization (VisitKorea), with no commercial endorsements."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "So that every traveler who comes to Seoul won't miss this patch of chestnut-shaded green and stage in Daehak-ro, we have gathered scattered official information into this guide — to give you the purest experience of 'by the park, watching the drama, reading the city'."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "region": "Seoul Metropolitan City",
+    "city": "Jongno-gu",
+    "current": "Marronnier Park"
+  },
+  "stickyNav": {
+    "facts": "Key Facts",
+    "etiquette": "Good Manners",
+    "route": "Half-Day Route",
+    "transport": "Transport",
+    "lodging": "Stay",
+    "visit": "Visit Tips",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Marronnier Park (마로니에 공원 · Marronnier Park)",
+    "subtitle": "A cultural urban park at the very center of Daehak-ro (대학로), Jongno-gu, Seoul. The green space grew out of the old Seoul National University (SNU) campus: SNU stood here from 1946 to 1975, and after moving to Gwanak-gu the area became Daehak-ro, Korea's 'Street of Drama.' Named for the rows of horse-chestnut trees (마로니에, French marronnier, the European horse-chestnut) that lined the old campus, the park keeps an open-air stage, a sculpture garden, and spreading shade — a green living room where street performance, small theaters, and citizens' leisure intertwine. The park is free and open all day, every day.",
+    "rating": "4.3 (5,998)",
+    "reviewCount": "5,998 reviews",
+    "hours": "24 hours (year-round)",
+    "openMaps": "View location on Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/iLuGhMduwgKSFsTw7",
+    "legend": {
+      "quote": "Marronnier Park takes its name from the rows of horse-chestnut trees (마로니에) along its boulevard. When Seoul National University left for Gwanak, it left behind not just old buildings but a green space covered in shade and youthful memory — today a public stage where anyone who loves theater and street art can freely perform.",
+      "attribution": "— Daehak-ro Culture Guide · Marronnier"
+    },
+    "tags": [
+      "Seoul cultural theater park",
+      "Free · 24h",
+      "Daehak-ro Street of Drama"
+    ],
+    "routeCta": {
+      "label": "Plan your route",
+      "href": "#transport"
+    },
+    "historyCta": {
+      "label": "Learn the history",
+      "href": "#history"
+    },
+    "quickFacts": [
+      {
+        "icon": "🌳",
+        "label": "Highlight",
+        "value": "Chestnut shade"
+      },
+      {
+        "icon": "🆓",
+        "label": "Admission",
+        "value": "Free"
+      },
+      {
+        "icon": "🕘",
+        "label": "Hours",
+        "value": "24 hours"
+      }
+    ],
+    "navCta": {
+      "label": "📍 Get directions",
+      "href": "#transport"
+    },
+    "photoCta": {
+      "label": "📸 Photo spots",
+      "href": "#gallery"
+    },
+    "factsSource": {
+      "label": "Hours & facilities per Jongno-gu Office official info",
+      "url": "https://www.jongno.go.kr"
+    },
+    "liveInfo": {
+      "weather": "Current weather",
+      "sunset": "Today's sunset"
+    },
+    "sunsetPlanner": {
+      "eyebrow": "Golden Hour Calculator · Light Tool",
+      "title": "Based on today's sunset, we recommend arriving about 60 minutes earlier to catch the softest diffuse light and the urban blue hour — ideal for the boulevard, open-air stage, and sculpture garden.",
+      "note": "The park sits in the city center surrounded by buildings; light is warmest from morning to dusk. On weekends or clear days, allow extra time to avoid crowds.",
+      "seaGlare": "Sunrise tip: the east side of Daehak-ro catches the morning light first; chestnut boulevards and sculptures show the best layering in raking sun. Mornings are cold in autumn and winter, so dress warmly against the breeze.",
+      "arriveLabel": "Arrive by",
+      "blueHourLabel": "Blue hour",
+      "lightCaption": "Light calculated live by Open-Meteo"
+    }
+  },
+  "quickFactsDashboard": {
+    "title": "Marronnier Park at a Glance · Data Board",
+    "subtitle": "A few numbers to understand this cultural urban park at the heart of Daehak-ro.",
+    "items": [
+      {
+        "icon": "🎭",
+        "label": "Culture / Culture",
+        "value": "Daehak-ro drama street",
+        "note": "The park sits in Seoul's representative performing-arts district, Daehak-ro (대학로), ringed by small theaters, musicals, and street performances — one of Seoul's most artistic green spaces."
+      },
+      {
+        "icon": "🌳",
+        "label": "Chestnut trees / Trees",
+        "value": "마로니에 shade",
+        "note": "Named for the rows of horse-chestnut trees (마로니에, European horse-chestnut) from the old SNU campus; dense shade and urban greenery intertwine as Daehak-ro's most recognizable natural landmark."
+      },
+      {
+        "icon": "🎪",
+        "label": "Open stage / Stage",
+        "value": "Street performance",
+        "note": "An open-air stage and open plaza host street artists, drama clubs, and audiences — you may stumble onto an impromptu show at any moment."
+      },
+      {
+        "icon": "🗿",
+        "label": "Sculpture garden / Art",
+        "value": "Public art",
+        "note": "A sculpture garden and public artworks turn the green space into a walkable open-air museum — a photo hotspot for art lovers and families alike."
+      },
+      {
+        "icon": "📍",
+        "label": "Coordinates / Coords",
+        "value": "~37°35′N, 127°00′E",
+        "note": "Plus Code: H2J3+34 Seoul. Address: 1 Daehak-ro 8-gil, Jongno District, Seoul, Korea."
+      },
+      {
+        "icon": "🎟️",
+        "label": "Admission / Admission",
+        "value": "Free",
+        "note": "The park is free and open 24 hours, managed by Jongno-gu, Seoul — visit anytime for walks, shows, and photography."
+      }
+    ]
+  },
+  "hiddenRules": {
+    "title": "Urban Park Visiting Tips",
+    "subtitle": "Marronnier Park sits at the core of Daehak-ro, busy and event-filled. Sort out safety, timing, and budget first, and the experience upgrades from 'rushed check-in' to 'relaxed visit'.",
+    "highlights": [
+      {
+        "icon": "👟",
+        "label": "Footwear",
+        "value": "Wear comfortable flats",
+        "note": "The park is mostly paths, lawns, and paved plazas; wear comfortable walking shoes. Night lighting is limited and shaded ground is uneven — watch your step and look after children and seniors."
+      },
+      {
+        "icon": "🚧",
+        "label": "Events & crowds",
+        "value": "Mind performance flow",
+        "note": "The open stage and plaza often host shows or gatherings; follow on-site guidance, don't climb railings or enter performance areas, and keep a safe distance from performers and equipment when photographing."
+      },
+      {
+        "icon": "🌧️",
+        "label": "Weather & routine",
+        "value": "Bring wind protection & water",
+        "note": "The urban core is less windy but hot in summer and cold in winter; carry water and a light jacket. On rainy days paved ground is slippery — wear non-slip shoes."
+      }
+    ],
+    "panels": [
+      {
+        "q": "Is there an entrance fee for Marronnier Park?",
+        "a": "The park itself is free and open 24 hours, with no ticket or reservation. Nearby theater shows, cafés, and markets are separate expenses — follow on-site signs.",
+        "items": [
+          "The park area is free and accessible anytime.",
+          "Shows, dining, and shopping are extra — plan a budget ahead."
+        ]
+      },
+      {
+        "q": "Is it convenient with kids or seniors?",
+        "a": "Paths are flat and open; wheelchairs and strollers can reach most areas via the main route. But weekends get crowded and shows gather crowds — hold children, assist seniors, and avoid peaks."
+      },
+      {
+        "q": "Can I still go on a rainy day?",
+        "a": "Light rain is fine, but paved ground is slippery and the chestnut canopy drips; wear non-slip shoes. During strong wind, maintenance, or large events, follow on-site closures and come another day."
+      }
+    ]
+  },
+  "complianceGuide": {
+    "title": "Marronnier Park · Etiquette & Public-Environment Guide",
+    "subtitle": "This is both a visitor's cultural park and the green living room where Daehak-ro residents walk and watch shows. Following these rules is double respect for nature and for others.",
+    "rules": [
+      {
+        "badge": "🚮",
+        "title": "Take your trash with you",
+        "text": "The park is in the city center with limited bins; bring a small trash bag and take everything with you when you leave — especially cigarette butts, plastics, and food scraps — keeping lawns and plazas clean."
+      },
+      {
+        "badge": "🔇",
+        "title": "Quiet & courtesy, avoid peak times",
+        "text": "The green space is open and near homes and theaters; lower your voice, don't play music aloud, and leave space for those performing, taking photos, and pausing to enjoy the view."
+      },
+      {
+        "badge": "🚭",
+        "title": "No smoking & fire safety",
+        "text": "Lawns and some covered walkways are no-smoking zones; observe no-smoking and fire-safety signs, and don't smoke among wooden structures or crowds."
+      },
+      {
+        "badge": "🌱",
+        "title": "Protect trees & public art",
+        "text": "The chestnut shade and sculpture garden are public urban landscapes — don't step on lawns, climb sculptures, or throw things into the greenery, keeping this greenery and art safe and alive."
+      }
+    ]
+  },
+  "higashiyamaRoute": {
+    "title": "Custom Itinerary: Marronnier Park Half-Day Route",
+    "subtitle": "Not just 'who it's for,' but a walkable half-day route you can follow directly. Centered on the park's shade, stage, and sculptures, linking Daehak-ro theaters and food.",
+    "steps": [
+      {
+        "title": "[Start] Boulevard & chestnut trees",
+        "meta": "Warm-up · ~30 min",
+        "text": "Enter Marronnier Park from the Daehak-ro subway side and stroll slowly under the rows of horse-chestnut trees, syncing your pace with Daehak-ro before heading to the stage and sculpture garden.",
+        "tips": [
+          "Mornings and dusk have the best light and fewer crowds."
+        ]
+      },
+      {
+        "title": "[Main] Open-air stage & street shows",
+        "meta": "Core experience · ~40 min",
+        "text": "Walk to the open-air stage and open plaza — Daehak-ro's most vivid performance site, where street artists, drama clubs, and audiences meet and an impromptu show may appear at any moment. This is the park's most expressive cultural facility and the best vantage for understanding 'park + theater'.",
+        "tips": [
+          "Shows are free; allow time to linger and photograph."
+        ]
+      },
+      {
+        "title": "[Extend] Sculpture garden & public art",
+        "meta": "Local story · ~40 min",
+        "text": "Wander the sculpture garden, reading the signs to understand the park's public-art thread, collecting artistic narrative and leisure memory together.",
+        "tips": [
+          "Artworks sit on hard bases; stay on paving with company."
+        ]
+      },
+      {
+        "title": "[Refuel] Daehak-ro food & cafés",
+        "meta": "Leisurely refuel · ~40 min",
+        "text": "Hydrate at the theater street and food alleys nearby, then look back at the shade and stage, packing greenery, performance, and urban life into one walk.",
+        "tips": [
+          "Supplies are rich but bring your own water."
+        ]
+      },
+      {
+        "title": "[End] Extend into Daehak-ro",
+        "meta": "Wrap-up · ~60 min+",
+        "text": "If energy allows, explore nearby small theaters, bookshops, and mural alleys; otherwise return along the boulevard, completing the 'trees—drama—art—street' half-day package.",
+        "tips": [
+          "After dusk the boulevard light is best; save photos for the end."
+        ]
+      }
+    ],
+    "disclaimer": "The route above emphasizes a self-contained loop you can follow as-is. If you only want the shows, keep the first two segments and treat the sculpture and food as optional add-ons."
+  },
+  "intro": {
+    "title": "Getting to Know Marronnier Park",
+    "description": "Marronnier Park (마로니에 공원, Korean: Marronnier Park) sits at the very center of Daehak-ro (대학로), Jongno-gu, Seoul — a cultural urban park grown from the old Seoul National University (SNU) campus. SNU stood here from 1946 to 1975, and after moving to Gwanak-gu this green space gradually became the green heart of Daehak-ro, Korea's 'Street of Drama.' Named for the rows of horse-chestnut trees (마로니에, French marronnier, the European horse-chestnut) from the old campus, the park keeps an open-air stage, a sculpture garden, and spreading shade — free and open 24 hours all year. It is a green living room where street performance, small theaters, and citizens' leisure intertwine, and the first stop to read Seoul's artistic character.",
+    "visitGuide": {
+      "title": "Visitor Guide",
+      "eyebrow": "Practical Planning",
+      "description": "Marronnier Park is a free urban park, reachable 24 hours with no gate. The ideal approach is rarely 'just wander by day' but to reverse-plan around light and shows: enjoy the shade and sculptures by day, catch the liveliest street performances at dusk, and keep the stage and greenery to yourself on a weekday. Facilities are restrained and artistic — which is exactly its charm.",
+      "items": [
+        "Dawn or dusk first: boulevard light is softest, sculptures and stage frame best.",
+        "Best views are at the open-stage plaza and the chestnut boulevard.",
+        "Take Seoul Metro Line 4 to Hyehwa Station (혜화역), exits 1–2, then walk about 5–10 minutes to the park.",
+        "There is little commercial supply inside; water, restrooms, and breaks are best done at Daehak-ro cafés."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "A cultural urban park grown from the old SNU campus — the green core of Daehak-ro's 'Street of Drama'",
+        "Named for the rows of horse-chestnut trees (마로니에) on its boulevard; dense shade is a rare natural landmark in central Seoul",
+        "An open-air stage and sculpture garden — an open field where street performance, public art, and citizens' leisure meet",
+        "Ringed by small theaters, musicals, and food alleys — the most convenient starting point to feel Seoul's artistic air",
+        "Free and open 24 hours, managed by Jongno-gu, visitable anytime"
+      ]
+    }
+  },
+  "transportSection": {
+    "title": "Transport & Arrival Guide",
+    "subtitle": "Consolidating outbound travel to Seoul, in-city transfers, walking/cycling, parking, and charging info for a clearer Marronnier Park plan.",
+    "overviewTitle": "After arriving in Seoul",
+    "overviewText": "Marronnier Park lies at the very center of Daehak-ro (대학로), Jongno-gu, Seoul — Seoul's most representative performing-arts district. The easiest outbound option is AREX airport rail or airport bus from Incheon International Airport into Seoul, or KTX from Busan to Seoul Station; once in the city, take Seoul Metro Line 4 to Hyehwa Station (혜화역), exits 1–2, then walk about 5–10 minutes to the park. In the urban core, you can enter the boulevard and stage area straight from the station.",
+    "overviewText2": "The area around Marronnier Park is city blocks with supporting parking and charging. Plan transport, parking, and walking together — especially with seniors, young children, or luggage, parking then walking greatly reduces hassle.",
+    "arrivalTitle": "Remember before departure",
+    "arrivalItems": [
+      "The park is at the center of Daehak-ro, Jongno-gu; about a 5–10 min walk from Hyehwa Station (혜화역) exits 1–2.",
+      "The park is free 24 hours, but night lighting is limited; daytime or dusk visits are more comfortable.",
+      "Weekends and clear days draw crowds, especially during street shows; avoid peaks. Parking fills easily — arrive early."
+    ],
+    "modes": [
+      {
+        "label": "AREX / Airport bus (to Seoul)",
+        "icon": "✈️",
+        "title": "Outbound to Seoul",
+        "description": "Easiest for most travelers: AREX or airport limousine from Incheon into Seoul, then metro to Daehak-ro — the classic way to Marronnier Park.",
+        "details": [
+          "AREX from Incheon to Seoul Station about 50–60 min (direct).",
+          "Then Line 4 to Hyehwa about 10–20 min.",
+          "Use a T-money card; metro, bus, taxi connect easily."
+        ],
+        "steps": [
+          {
+            "n": "1",
+            "t": "Take AREX or airport bus into Seoul."
+          },
+          {
+            "n": "2",
+            "t": "Transfer to Line 4 to Hyehwa."
+          },
+          {
+            "n": "3",
+            "t": "Walk to the park's boulevard entrance."
+          }
+        ]
+      },
+      {
+        "label": "Line 4 (to Hyehwa)",
+        "icon": "🚇",
+        "title": "In-city to the park",
+        "description": "Flexible and convenient: Line 4 to Hyehwa Station (혜화역), exits 1–2, then a 5–10 min walk to Marronnier Park — the choice of most visitors.",
+        "details": [
+          "Hyehwa is a Line 4 station with multiple transfers.",
+          "Walk along Daehak-ro about 5–10 min after exiting.",
+          "Buses take T-money; use a map app for real-time arrivals."
+        ],
+        "steps": [
+          {
+            "n": "1",
+            "t": "Take Line 4 to Hyehwa Station."
+          },
+          {
+            "n": "2",
+            "t": "Walk along Daehak-ro from exits 1–2."
+          },
+          {
+            "n": "3",
+            "t": "Enter the boulevard and stage area."
+          }
+        ]
+      },
+      {
+        "label": "City bus (to Daehak-ro)",
+        "icon": "🚌",
+        "title": "The hidden nearby option",
+        "description": "Daehak-ro's bus network is dense; many trunk lines stop near the park — a few minutes' walk after alighting, ideal for light packers.",
+        "details": [
+          "Frequent buses, closest to the park.",
+          "About 3–8 min walk to main sights.",
+          "Mornings and weekdays are best to avoid transfers and crowds."
+        ],
+        "steps": [
+          {
+            "n": "1",
+            "t": "Get off at Daehak-ro by bus."
+          },
+          {
+            "n": "2",
+            "t": "Walk about 3–8 min to the park."
+          },
+          {
+            "n": "3",
+            "t": "Reach the boulevard and open stage."
+          }
+        ]
+      },
+      {
+        "label": "Driving (parking / charging)",
+        "icon": "🅿️",
+        "title": "Via Daehak-ro · nearby parking",
+        "description": "Good with seniors/children, lots of luggage, or touring Seoul; supporting parking (mostly paid) and EV chargers nearby.",
+        "details": [
+          "Navigate to '마로니에공원' or '1 Daehak-ro 8-gil, Jongno District, Seoul'.",
+          "Limited spaces; fills on weekends and holidays.",
+          "Some public lots have EV chargers; drive slowly downtown."
+        ],
+        "steps": [
+          {
+            "n": "1",
+            "t": "Navigate to 'Marronnier Park'."
+          },
+          {
+            "n": "2",
+            "t": "Park in a nearby paid lot, walk in."
+          },
+          {
+            "n": "3",
+            "t": "Avoid the 11:00–19:00 peak to save parking time."
+          }
+        ]
+      },
+      {
+        "label": "Taxi / ride-hailing",
+        "icon": "🚕",
+        "title": "Door-to-door",
+        "description": "Most convenient with luggage, seniors/children, or late arrivals.",
+        "details": [
+          "Taxi from Seoul Station or downtown to the park about 15–30 min, metered.",
+          "You'll walk in from the park vicinity.",
+          "Taxis queue in peak and rainy seasons; reserve via Kakao T."
+        ],
+        "steps": [
+          {
+            "n": "1",
+            "t": "Call a car via Kakao T or similar."
+          },
+          {
+            "n": "2",
+            "t": "Tell the driver '마로니에공원'."
+          },
+          {
+            "n": "3",
+            "t": "Get off near the park and walk in."
+          }
+        ]
+      },
+      {
+        "label": "Walk (Daehak-ro streets)",
+        "icon": "🚶",
+        "title": "From Hyehwa to the park",
+        "description": "If you're already in Daehak-ro, walking is the most natural way to observe theaters, cafés, and shade.",
+        "details": [
+          "About a 5–10 min walk from Hyehwa to the park.",
+          "Pass small theaters, bookshops, food alleys along the way.",
+          "Flat paths; wear comfortable shoes and watch children and belongings."
+        ]
+      },
+      {
+        "label": "Cycling / greenway walk",
+        "icon": "🚲",
+        "title": "Street slow travel",
+        "description": "The most relaxing way to feel Daehak-ro's artistic atmosphere.",
+        "details": [
+          "Flat around the park; walk to connect stage, sculptures, food alleys.",
+          "Park bikes at racks; don't ride into greenery or crowds.",
+          "About 5–10 min from Hyehwa to the park, with greenery throughout."
+        ]
+      }
+    ],
+    "parking": {
+      "title": "Parking & Charging Overview",
+      "note": "Marronnier Park has supporting parking (mostly paid). Below are the nearest main options; rates and availability vary by season and time — please follow on-site signs.",
+      "colOption": "Parking option",
+      "colDistance": "Distance",
+      "colPrice": "Price",
+      "options": [
+        {
+          "name": "Public parking near the park",
+          "distance": "about 50–200 m (to entrance)",
+          "price": "Paid public parking, fills in peak season"
+        },
+        {
+          "name": "Daehak-ro neighborhood parking",
+          "distance": "about 300–800 m",
+          "price": "Public / paid, more spaces but tight in peak"
+        },
+        {
+          "name": "Nearby street parking",
+          "distance": "about 200–500 m",
+          "price": "Roadside / small lots, few spaces, easier on weekdays"
+        },
+        {
+          "name": "Jongno-gu transfer lot",
+          "distance": "about 1–3 km",
+          "price": "Transfer discount parking, needs shuttle"
+        },
+        {
+          "name": "Drop-off point (near park)",
+          "distance": "about 50–100 m",
+          "price": "Short stop only, no spaces"
+        }
+      ],
+      "disclaimer": "Roads near the park congest on holidays and clear days; don't occupy bus or fire lanes for long. EV chargers are mostly in public lots; rates and limits may change — check posted signs."
+    },
+    "driverFaqTitle": "Transport FAQ",
+    "driverFaq": [
+      {
+        "q": "Is there parking near Marronnier Park?",
+        "a": "The park has supporting parking (mostly paid), within walking distance. It fills easily on weekends and holidays — arrive early or prefer public transport."
+      },
+      {
+        "q": "What is the nearest parking?",
+        "a": "Public parking about 50–200 m away is closest to the entrance; Daehak-ro neighborhood parking is about 300–800 m, more spaces but tight in peak."
+      },
+      {
+        "q": "Is there roadside parking nearby?",
+        "a": "Little. Roads are narrow and congested on holidays; don't park roadside long — use proper lots and public transport."
+      },
+      {
+        "q": "Is driving recommended?",
+        "a": "Unless parking is essential, no. Weekends and clear days congest; walking or public transport is smoother. If driving, park then walk in."
+      },
+      {
+        "q": "Do you recommend public transport?",
+        "a": "Strongly. Take Line 4 to Hyehwa Station, exits 1–2, then walk about 5–10 min to the park. Address: 1 Daehak-ro 8-gil, Jongno District, Seoul."
+      },
+      {
+        "q": "What is the best route?",
+        "a": "For stability and ease, public transport remains optimal: Line 4 to Hyehwa, then walk. If driving is unavoidable, treat parking and shuttle as part of the trip, not 'drive to the door'."
+      }
+    ],
+    "localTipsTitle": "Practical visiting tips",
+    "localTips": [
+      "Mornings and dusk remain golden; set arrival about 60 minutes before sunset for the best urban light on shade and sculptures.",
+      "Weekends and clear days draw crowds, especially during street shows; with kids or gear, allow buffer and avoid peaks.",
+      "Best pair Marronnier Park with Daehak-ro theaters and the sculpture garden; a single stop underestimates its artistic value."
+    ],
+    "mapsCta": "View map & route",
+    "mapsUrl": "https://maps.app.goo.gl/iLuGhMduwgKSFsTw7",
+    "bestTime": {
+      "title": "Best time to arrive",
+      "text": "Marronnier Park is reachable 24 hours, but what truly sets the photo ceiling is the soft morning light and the dusk crowd at the stage. Arrive about 60 minutes before sunset; if weather isn't good for photos, shift focus to a boulevard stroll or the sculpture garden."
+    }
+  },
+  "officialManagement": {
+    "title": "About this urban cultural park",
+    "text": "Marronnier Park lies at the very center of Daehak-ro (대학로), Jongno-gu, Seoul — a citizens' cultural park grown from the green space and public areas of the old Seoul National University (SNU) campus, maintained and operated by Jongno-gu Office as public space. It has long been a city living room shared by residents strolling, travelers visiting, and street performers, and is one of Seoul's city cards of 'drama, trees, and youth'."
+  },
+  "humanities": {
+    "title": "People & Place: From SNU to Marronnier",
+    "subtitle": "Putting Seoul National University's move, Daehak-ro's toponym memory, the chestnut shade, and the modern culture of street performance on one timeline is how you truly understand why this park is more than 'a pretty green space'."
+  },
+  "knowledge": {
+    "title": "History & Origins of Marronnier Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "SNU and the former life of Daehak-ro",
+        "content": "Today's Daehak-ro (대학로) literally means 'University Street.' After Seoul National University (SNU) was founded in 1946, its main campus and colleges of humanities stood here, making the district once home to Korea's top university. When SNU moved to Gwanak-gu in 1975, the leftover campus greenery and shade became the foundation for Daehak-ro's later transformation into a performing-arts district."
+      },
+      {
+        "id": "name",
+        "title": "The name 'Marronnier' & the horse-chestnut",
+        "content": "'Marronnier' (마로니에) is the French word for the European horse-chestnut. Rows of horse-chestnut trees were planted across the old SNU campus, forming leafy arcades. The park takes its name from these trees that witnessed campus years, interlocking toponym, trees, and city memory on the same green space."
+      },
+      {
+        "id": "development",
+        "title": "Birth of the park (c. 1981–)",
+        "content": "After SNU left, Jongno-gu prepared this old-campus green space as a public park around 1981, keeping the chestnut shade and adding an open-air stage and sculpture garden, gradually becoming Daehak-ro's representative free urban park, maintained by Jongno-gu Office."
+      },
+      {
+        "id": "performance",
+        "title": "Street of Drama & street-performance culture",
+        "content": "Daehak-ro is Seoul's most representative performing-arts district, dense with small theaters, musicals, and experimental shows. Marronnier Park's open-air stage and open plaza are the most accessible performance sites of this 'Street of Drama' — where street artists, drama clubs, and audiences meet freely, a source of Seoul's artistic air."
+      },
+      {
+        "id": "sculpture",
+        "title": "Sculpture garden & public art",
+        "content": "The park holds a sculpture garden and several public artworks, turning the green space into a walkable open-air museum. Sculptures and chestnut shade reflect each other, making Marronnier Park both a citizens' living room and a wall-less urban art site."
+      },
+      {
+        "id": "street",
+        "title": "Youth, street & civic culture",
+        "content": "From former university students to today's street artists, drama youth, and passing travelers, Marronnier Park has always been Seoul's container of youth and civic culture. It carries not just greenery but a public spirit where anyone can freely take the stage."
+      },
+      {
+        "id": "ecology",
+        "title": "Urban green lung & horse-chestnut ecology",
+        "content": "In the pricey center of Seoul, Marronnier Park forms a rare urban green patch with chestnut shade and open lawns. The horse-chestnut blooms upright white panicles in late spring and bears conker-like fruit in autumn, presenting different urban-nature scenes through the seasons — a vivid sample of 'city and greenery in symbiosis.'",
+        "cards": [
+          {
+            "title": "Four seasons of the chestnut",
+            "text": "Upright white panicles in late spring, deep shade in summer, yellowing leaves and conker fruit in autumn — the park's most recognizable seasonal symbol."
+          },
+          {
+            "title": "Value of the urban patch",
+            "text": "Among Daehak-ro's dense buildings, this green offers citizens a public place to escape heat, rest, and gather, moderating microclimate and softening the hard urban edge."
+          },
+          {
+            "title": "Observation tip",
+            "text": "When few people are around at dawn or on weekdays, the layering of shade and sculptures is clearest; from the stage plaza you can read the 'trees—drama—art' spatial structure at a glance."
+          }
+        ],
+        "fieldNote": {
+          "title": "Observation tip",
+          "text": "First take in the park's overall outline from the open-stage plaza, then return to the boulevard to observe chestnuts and sculptures up close. Distance views show overall form; close views reveal how the urban green formed."
+        },
+        "academicNote": {
+          "title": "Academic note",
+          "text": "This section is a science overview based on public park interpretation and on-site features. For stricter historical and ecological classification, rely on official materials, on-site signs, and academic research."
+        }
+      },
+      {
+        "id": "legend",
+        "title": "Legends of Marronnier & the Symbolism of the Horse-Chestnut",
+        "content": "Among the street performers of Daehak-ro, the horse-chestnut trees are more than a row of shade trees — they carry romantic folklore: wishes whispered under the branches, falling leaves read as a curtain call, evergreen canopies seen as a stage that never ends… These oral tales give the park more warmth than any signboard. Here are three small legends passed among the performing-arts community, offered as cultural trivia.",
+        "cards": [
+          {
+            "title": "The \"Seven-Leaf\" Wish Before the Show",
+            "text": "It is said that young actors arriving in Daehak-ro for their debut would make a quiet wish beneath the horse-chestnuts — for a flawless performance and a full house. Over time, this green colonnade became a gentle rite of passage for newcomers."
+          },
+          {
+            "title": "Leaves Like a Curtain Call",
+            "text": "When the horse-chestnuts shed their palmate leaves each autumn, locals joke that \"nature is taking the park's bow.\" Regulars say watching the fall is like seeing a wordless pantomime that repeats with every season."
+          },
+          {
+            "title": "A Stage That Never Clears",
+            "text": "Some say that as long as the horse-chestnuts stand, the show in Daehak-ro will never end. The canopy is read as a symbol of \"a stage that never goes dark,\" holding people's wish that this street-theatre sanctuary endures."
+          }
+        ],
+        "academicNote": {
+          "title": "A note on content",
+          "text": "The above are folk retellings and symbolic readings circulated among Daehak-ro's performing community, not official history. We present them as cultural trivia to enrich the park's storytelling; for rigorous history and ecology, please rely on on-site plaques and official sources."
+        }
+      }
+    ],
+    "didYouKnow": {
+      "title": "Did you know?",
+      "text": "Marronnier Park is more than urban greenery — it is an open-air classroom of city memory and public art: from SNU's move and the chestnut shade to street performances on the open stage and the sculpture garden, the story of land and people is written at the center of Daehak-ro."
+    }
+  },
+  "sitePlaques": {
+    "title": "Reading the On-site Signs & Interpretation",
+    "subtitle": "When you visit Marronnier Park, what's worth reading slowly is often not the check-in board but the official signs explaining 'why this green space is here'.",
+    "locationLabel": "On-site location",
+    "intro": "The readings below are based on Jongno-gu's park-history, chestnut-tree, open-stage, and sculpture-garden signage, translating information visible on-site but not always read into accessible English science notes.",
+    "items": [
+      {
+        "id": "monument",
+        "badge": "Park history sign",
+        "title": "Marronnier Park & Daehak-ro",
+        "koTitle": "마로니에공원 연혁",
+        "koTitleZh": "Marronnier Park History",
+        "location": "Main park entrance",
+        "body": "These signs usually state the key background: the meaning of Marronnier Park as Daehak-ro's central green space, and its roots in the old SNU campus. Reading the hints is lesson one in using this urban landmark."
+      },
+      {
+        "id": "signboard",
+        "badge": "Boulevard guide (KO/EN)",
+        "title": "Chestnut-tree boulevard",
+        "koTitle": "마로니에 나무 안내",
+        "koTitleZh": "Horse-chestnut Guide",
+        "location": "Boulevard entrance",
+        "body": "The guide repeats the chestnut tree's status as the park's namesake and reminds visitors: half the boulevard's charm is the open shade, half the real city and youthful memory at your feet. The signs explain clearly 'why horse-chestnuts'."
+      },
+      {
+        "id": "wooden",
+        "badge": "Stage interpretation",
+        "title": "Open stage & street shows",
+        "koTitle": "야외무대 안내",
+        "koTitleZh": "Open Stage Guide",
+        "location": "Stage plaza",
+        "body": "The map explains 'why this is a performance hotspot': Daehak-ro's theater tradition overlaps the park's open space. Seen with the boulevard, the park's design logic is clear — cultural memory and citizens' leisure coexist."
+      },
+      {
+        "id": "dongporu",
+        "badge": "Sculpture marker",
+        "title": "Sculpture garden & public art",
+        "koTitle": "조각정원 안내",
+        "koTitleZh": "Sculpture Garden Guide",
+        "location": "Sculpture garden",
+        "body": "Erected by Jongno-gu, it marks the relationship between the park and public art, echoing the 'Street of Drama' motif. It reminds every visitor: this green belt connects Seoul's warmest artistic memory with its most transparent urban experience."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "From the deep green of chestnut shade, the spotlight of the open stage, to the lines of the sculpture garden — see the visual beauty of Marronnier Park.",
+    "photoAlt": "Marronnier Park (Marronnier Park · 마로니에 공원)",
+    "photoAlts": [
+      "Panorama of Marronnier Park with chestnut shade and city buildings.",
+      "Quiet boulevard at dawn, perfect for slow tree-shadow detail shots.",
+      "Open stage in golden dusk light, spotlight and crowds intertwined.",
+      "Sculpture garden close-up, public art against greenery.",
+      "Overhead shot: Daehak-ro blocks and greenery below.",
+      "High vantage: park and Daehak-ro townscape as landscape.",
+      "Open view along the boulevard, city skyline extending above the trees.",
+      "Warm family play on the lawn, ideal for slow family visits.",
+      "Blue-and-white guide signs echoing the greenery theme.",
+      "Boulevard as a leading line, framing sculpture and sky together.",
+      "Stage-side of the plaza, one of the best photo spots.",
+      "Chestnut trees in the distance, with Daehak-ro street scene.",
+      "Warm boulevard at dusk, golden light on leaves.",
+      "Boulevard and stage together, best from dawn to dusk.",
+      "Sculpture as a street-scene subject, echoing public art.",
+      "High panorama packing 'trees—drama—art—street' in one frame.",
+      "Stage lights and shade at night, a quiet urban living room.",
+      "Warm-toned lawn, public space gently embraced by nature.",
+      "Boulevard and plaza under night lights, a golden photo combo.",
+      "Morning light through chestnut leaves, first rays on the ground."
+    ],
+    "viewAll": "View location on Google Maps",
+    "showMore": "Show more photos",
+    "mapsUrl": "https://maps.app.goo.gl/iLuGhMduwgKSFsTw7"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback is available on Google Maps (external link).",
+    "featuredTitle": "Visitor Quotes",
+    "featuredSubtitle": "A few short lines that capture the spirit of Marronnier Park.",
+    "moreReviews": "View on Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/iLuGhMduwgKSFsTw7",
+    "featured": [
+      {
+        "text": "Sitting under the chestnut shade watching a free street show — that Daehak-ro artistic ease is so special, and at dusk the lights make it feel like an open-air theater.",
+        "source": "Independent traveler · Seoul"
+      },
+      {
+        "text": "A free and open urban park, steps from the small theaters — Seoul's most underrated green corner in the city center.",
+        "source": "Art lover · Seoul"
+      },
+      {
+        "text": "Walking the boulevard slowly with my child, he watched the sculptures and heard Daehak-ro's stories; even my parents walked easily.",
+        "source": "Family · Gyeonggi"
+      }
+    ],
+    "items": [
+      {
+        "name": "Minjun",
+        "date": "May 2026",
+        "rating": 5,
+        "text": "Visited at dawn; the boulevard backlit is so photogenic, and sitting by the stage was completely silent — strongly recommend weekdays, fewer people and best light."
+      },
+      {
+        "name": "Seoyeon",
+        "date": "Apr 2026",
+        "rating": 5,
+        "text": "About 5 minutes from Hyehwa Station; the chestnut shade is healing, and we happened upon a street show — amazing atmosphere."
+      },
+      {
+        "name": "Jihun",
+        "date": "Mar 2026",
+        "rating": 4,
+        "text": "Worth it as free public space; weekends are crowded — weekdays or mornings are more comfortable."
+      },
+      {
+        "name": "Ha-eun",
+        "date": "Feb 2026",
+        "rating": 5,
+        "text": "About 5 minutes by walking from Hyehwa Station to the park; the theaters and cafés along the way are pleasant for a half-day stroll."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get There",
+    "subtitle": "1 Daehak-ro 8-gil, Jongno District, Seoul, Korea (Plus Code: H2J3+34) · Tel +82 2-2148-4158",
+    "openMaps": "Open in Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/iLuGhMduwgKSFsTw7"
+  },
+  "footer": {
+    "siteName": "Marronnier Park (Daehak-ro · Marronnier Park · 마로니에 공원)",
+    "rights": "© 2026 Marronnier Park Guide — an independent non-profit visitor-information project. All rights reserved.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "So that every traveler who comes to Seoul won't miss this patch of chestnut-shaded green and stage in Daehak-ro, we have gathered scattered official information into this guide — to give you the purest experience of 'by the park, watching the drama, reading the city'."
+    },
+    "legalLinksTitle": "Privacy & Terms",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official & Reference Resources",
+    "mapsLabel": "Google Maps →",
+    "mapsUrl": "https://maps.app.goo.gl/iLuGhMduwgKSFsTw7",
+    "officialLinksList": [
+      {
+        "name": "Seoul Parks Official · Marronnier Park Page",
+        "url": "https://parks.seoul.go.kr/parks/detailView.do?pIdx=72&tabTarget=1",
+        "operator": "Seoul Metropolitan Government",
+        "desc": "The most authoritative official source on Marronnier Park’s history, main trees, facility layout and park management rules."
+      },
+      {
+        "name": "Jongno Culture Platform · Marronnier Park Intro",
+        "url": "https://culture.jongno.go.kr/media/ko/bbs/44/detail.do?pstSn=28",
+        "operator": "Jongno-gu Office",
+        "desc": "Run by the district government, it documents in detail how the park evolved from the former Seoul National University campus into today’s Daehak-ro cultural landmark."
+      },
+      {
+        "name": "Korea Tourism Organization (VISITKOREA) · Official Guide",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110673",
+        "operator": "Ministry of Culture, Sports and Tourism / Korea Tourism Organization (KTO)",
+        "desc": "The national official tourism platform’s English guide to Marronnier Park, with detailed transit directions, nearby arts centers, opening hours and multilingual hotline."
+      },
+      {
+        "name": "VisitSeoul · Attraction Page",
+        "url": "https://korean.visitseoul.net/area/마로니에공원/KOP002071",
+        "operator": "Seoul Metropolitan Government / Seoul Tourism Organization",
+        "desc": "Seoul’s official tourism site with the latest visitor reviews, nearby pedestrian streets, signature cafés and theatres as a comprehensive travel guide."
+      },
+      {
+        "name": "Seoul Culture Portal · Marronnier Outdoor Stage",
+        "url": "https://culture.seoul.go.kr/culture/culture/cultureSpace/view.do?facCode=102402&menuNo=200119",
+        "operator": "Seoul Metropolitan Government Cultural Affairs Bureau",
+        "desc": "Focuses on the park’s core “Outdoor Performance Stage (야외무대)”, including cultural equipment setup, nearby transit and official data."
+      }
+    ],
+    "disclaimer": "This website is an independent non-profit visitor-information project. We are not affiliated with any government agency or official organization.",
+    "dataSource": "Information cited on this site is cross-checked against public materials from the Seoul Metropolitan Government, Jongno-gu Office, and the Korea Tourism Organization (VisitKorea), with no commercial endorsements.",
+    "dataSourceLabel": "Data Source"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We do not normally actively collect users' personal identity information. Any information you provide via contact forms or email will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "Information we collect is used solely to provide, maintain, and improve our services and to communicate with you. We will not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies & Tracking",
+        "content": "We use cookies and similar tracking technologies to record activity on the site and store certain information. You can instruct your browser to refuse all cookies or to alert you when a cookie is sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "Your data security matters to us. We take commercially acceptable measures to protect your personal data, though no internet transmission is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these Terms of Service. If you disagree with any part, you may not use the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent non-profit visitor-information project. The information provided is for general informational purposes only. You agree to use the website responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including text, images, and logos, unless otherwise noted, is the property of the site owner. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We are not liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use this website or the information it contains."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Strictly Necessary Cookies",
+      "description": "Required for basic website functions.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save preferences",
+    "saved": "Preferences saved!"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Practical information about Marronnier Park's facilities, history, and visit planning.",
+    "amenities": {
+      "title": "Nearby Facilities",
+      "items": [
+        {
+          "icon": "🅿️",
+          "label": "Parking",
+          "value": "Nearby supporting lots (mostly paid)"
+        },
+        {
+          "icon": "🚻",
+          "label": "Restrooms",
+          "value": "Park & Daehak-ro public toilets"
+        },
+        {
+          "icon": "🔌",
+          "label": "Fuel / Charging",
+          "value": "EV chargers in public lots"
+        },
+        {
+          "icon": "♿",
+          "label": "Accessibility",
+          "value": "Flat paths accessible"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "id": "infra",
+        "title": "Transport & Infrastructure",
+        "items": [
+          {
+            "q": "Is there parking, and what does it cost?",
+            "a": "The park has supporting parking (mostly paid), within walking distance. It fills easily on weekends and holidays — arrive early or prefer public transport."
+          },
+          {
+            "q": "Are wheelchairs or strollers allowed?",
+            "a": "Marronnier Park has flat paths and paved plazas; wheelchairs and strollers can reach most areas via the main route. But weekends get crowded during shows — stay on paving with company."
+          },
+          {
+            "q": "Are there restrooms or food inside?",
+            "a": "As open urban greenery, restrooms and snacks concentrate around Daehak-ro; resupply water and food at nearby cafés before entering."
+          },
+          {
+            "q": "Is there fuel or EV charging nearby?",
+            "a": "Public lots have EV chargers; traditional gas stations line Seoul's avenues — self-drivers can refuel on the way in."
+          }
+        ]
+      },
+      {
+        "id": "geo",
+        "title": "History & Science",
+        "items": [
+          {
+            "q": "What is the connection between 'Marronnier Park' and the horse-chestnut?",
+            "a": "'Marronnier' (마로니에) is the French word for the European horse-chestnut. The park is named for the rows of horse-chestnuts on its boulevard — trees from the old SNU campus greenery."
+          },
+          {
+            "q": "What is its special natural and cultural value?",
+            "a": "Marronnier Park is not a themed amusement park but a public space turning an old-campus green into a blend of urban green lung, street performance, public art, and drama culture. Chestnuts, open stage, and sculptures form a low-impact, high-empathy design — one of Seoul's city cards of 'drama and youth'."
+          }
+        ]
+      },
+      {
+        "id": "plan",
+        "title": "Planning & Tickets",
+        "items": [
+          {
+            "q": "Is a ticket required?",
+            "a": "Marronnier Park itself is free and open 24 hours, with no gate, ticket, or reservation needed — visit anytime (please respect the public environment and avoid late-night noise)."
+          },
+          {
+            "q": "How long does a visit take?",
+            "a": "A relaxed walk takes about 1–2 hours (including boulevard and photo stops); allow half a day if you also visit theaters, the sculpture garden, and Daehak-ro."
+          },
+          {
+            "q": "Can I go in bad weather?",
+            "a": "Yes — the park is open space, visitable in any weather. But paved ground is slippery and the canopy drips in rain; take wind and slip precautions, wear non-slip shoes, and watch the weather."
+          }
+        ]
+      },
+      {
+        "id": "nearby",
+        "title": "Nearby Connections",
+        "items": [
+          {
+            "q": "What else is worth visiting nearby?",
+            "a": "From Marronnier Park you can link Daehak-ro small theaters, the sculpture garden, bookshops and cafés around Hyehwa, and nearby Ihwa Mural Village (이화벽화마을) and Naksan Park (낙산공원) into a half-day 'trees—drama—art—street' arts route."
+          }
+        ]
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Explore More of Seoul",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Experiences",
+    "attractions": [
+      {
+        "name": "Jongno-gu Office, Seoul (마로니에공원)",
+        "url": "https://www.jongno.go.kr"
+      },
+      {
+        "name": "Visit Seoul (Seoul Tourism)",
+        "url": "https://www.visitseoul.net"
+      },
+      {
+        "name": "Korea Tourism Organization",
+        "url": "https://korean.visitkorea.or.kr"
+      },
+      {
+        "name": "Seoul Metropolitan Government",
+        "url": "https://english.seoul.go.kr"
+      },
+      {
+        "name": "Daehak-ro Culture Map (대학로)",
+        "url": "https://www.visitseoul.net"
+      }
+    ],
+    "tours": [
+      {
+        "name": "Korea Tourism Organization (VisitKorea)",
+        "url": "https://korean.visitkorea.or.kr"
+      },
+      {
+        "name": "Visit Seoul",
+        "url": "https://www.visitseoul.net"
+      },
+      {
+        "name": "Jongno-gu Office",
+        "url": "https://www.jongno.go.kr"
+      }
+    ]
+  },
+  "scienceArt": {
+    "title": "Park & City: Trees, Drama & Public Art",
+    "subtitle": "Dig below the surface 'pretty' to find what's truly rare about this park: it is at once an urban green lung, a drama culture, and an open-air urban art classroom.",
+    "scienceMuseum": {
+      "name": "Chestnuts & Daehak-ro's memory",
+      "role": "The time story hidden in the shade",
+      "highlight": "The hardest core of Marronnier Park is both visible and invisible. Visible are the chestnut shade and open stage; invisible is the SNU-move narrative and Koreans' youthful memory it carries. Visitors see landscape; nostalgics see Daehak-ro placed on this green riverside as a local text.",
+      "points": [
+        "Core: city memory, chestnut symbols, and drama geography light up this green heart.",
+        "Key: public greenery turned into a low-impact, high-empathy arts classroom.",
+        "Meaning: it upgrades the 'urban green lung' into a pilgrimage-worthy arts template."
+      ],
+      "ctaLabel": "Visit Jongno-gu ↗",
+      "ctaUrl": "https://www.jongno.go.kr"
+    },
+    "artMuseum": {
+      "name": "City symbols in the sculptures",
+      "role": "Marronnier Park's cultural symbol",
+      "highlight": "The open stage, chestnut shade, and public sculptures, together with Daehak-ro, form Marronnier Park's identity system: instantly reading as Seoul, as Daehak-ro, and as a gentle, transparent urban aesthetic. From shade to stage to golden sculptures, this contrast makes it one of Seoul's most memorable urban images.",
+      "points": [
+        "Imagery: trees, drama, art form a strong identity.",
+        "Status: one of Seoul's most photogenic urban parks.",
+        "Narrative: it translates the drama theme into a publicly felt aesthetic."
+      ],
+      "ctaLabel": "Visit Seoul Tourism ↗",
+      "ctaUrl": "https://www.visitseoul.net"
+    }
+  },
+  "outdoorMuseum": {
+    "title": "Photography & Photo Guide: Marronnier Park Spots",
+    "subtitle": "As Seoul's most recognizable cultural urban park, a few structured spots and times greatly improve your photos' usefulness and beauty.",
+    "items": [
+      {
+        "id": "sunrise",
+        "icon": "🌅",
+        "name": "Boulevard · chestnut greens",
+        "location": "Boulevard middle",
+        "background": "From dawn to dusk, the chestnut shade at your feet makes the classic 'boulevard—sky' composition; tree silhouettes are beautiful backlit.",
+        "points": [
+          "Use the boulevard as a leading line toward the sky.",
+          "Crouch low to layer shade and ground for a steadier frame."
+        ],
+        "badge": {
+          "value": "Dawn",
+          "label": "Best shot"
+        }
+      },
+      {
+        "id": "bridge",
+        "icon": "🎭",
+        "name": "Open stage · performance view",
+        "location": "Stage plaza",
+        "background": "From the stage plaza, frame 'shade + stage + crowd' together — Marronnier Park's most recognizable spot.",
+        "points": [
+          "Side light on the stage at dawn is softest.",
+          "Watch your step and crowds; don't enter closed areas."
+        ],
+        "badge": {
+          "value": "All day",
+          "label": "Most accessible"
+        }
+      },
+      {
+        "id": "sea",
+        "icon": "🗿",
+        "name": "Sculpture garden",
+        "location": "Sculpture garden",
+        "background": "Sculpture lines and chestnut greenery reflect each other; paired with open shows, morning light on sculptures sparks the imagination.",
+        "points": [
+          "Shoot in blue hour; sky and greenery balance best.",
+          "Leave large warm sky with sculpture silhouettes."
+        ],
+        "badge": {
+          "value": "Bloom",
+          "label": "Most atmospheric"
+        }
+      },
+      {
+        "id": "night",
+        "icon": "🌃",
+        "name": "Night lights",
+        "location": "Stage toward boulevard",
+        "background": "After dark, stage and shade glow; Marronnier Park reflects a river of lights — ideal for closing long-exposure night shots and urban portraits.",
+        "points": [
+          "Use lights as a leading line toward the distance.",
+          "Raise ISO or use stabilization for night frames."
+        ],
+        "badge": {
+          "value": "Night",
+          "label": "Best layers"
+        }
+      }
+    ]
+  },
+  "education": {
+    "title": "Why is this Daehak-ro's green landmark?",
+    "subtitle": "What's most worth learning about Marronnier Park isn't 'it got prettier' but how it re-integrated an old-campus green into the public's city memory while keeping reverence for nature.",
+    "points": [
+      {
+        "title": "A city living room still used by citizens",
+        "text": "Marronnier Park isn't a 'hide the greenery and done' case, but a model that activates city memory through public-space design and turns it into shared place.",
+        "items": [
+          "Citizens give daily strolls and show-watching to this greenery and stage.",
+          "Public space and the urban blocks coexist long-term."
+        ]
+      },
+      {
+        "title": "Writing memory ethics into visitor behavior",
+        "text": "Signs, boulevard, and guide systems aren't just navigation but let every visitor, while using the space, casually respect public environment and others.",
+        "items": [
+          "Visitors are guided to stay on low-impact paths.",
+          "Viewing experience and public life don't sacrifice each other."
+        ]
+      },
+      {
+        "title": "Translating city memory into public aesthetics",
+        "text": "Marronnier Park didn't erase the campus background but, through chestnuts, sculptures, and signage, lets the public sense what this land has been through while visiting.",
+        "items": [
+          "Story depth and viewing experience complete in one place.",
+          "Exactly the value a non-profit science site should amplify."
+        ]
+      }
+    ]
+  },
+  "plantGuide": {
+    "title": "The Chestnut Tree's Four-Season Calendar",
+    "subtitle": "Dig below 'pretty green' to find what's truly rare about Marronnier Park: it turns an urban green into an open-air nature classroom that changes with the seasons.",
+    "comparison": [
+      {
+        "icon": "🌳",
+        "badge": "Spring–Summer shade",
+        "name": "Chestnut & deep shade",
+        "summary": "Spring–summer is Marronnier Park's greenest season. The horse-chestnut (마로니에) opens upright white panicles in late spring, and deep shade in summer forms Daehak-ro's coolest urban green corridor.",
+        "points": [
+          "Bloom about May–June, upright white panicles.",
+          "Broad, dense crown makes the boulevard's protagonist.",
+          "With stage and sculptures, most summery energy."
+        ]
+      },
+      {
+        "icon": "🍂",
+        "badge": "Autumn–Winter color",
+        "name": "Yellow leaves & fruit",
+        "summary": "Autumn–winter is Marronnier Park's most storied season. Chestnut leaves yellow and conker fruit hang, dotting the urban autumn with Daehak-ro's theater lights.",
+        "points": [
+          "Leaves yellow about Oct–Nov, boulevard gilded.",
+          "Conker fruit marks the horse-chestnut.",
+          "Softest dusk light, highest photo rate."
+        ]
+      }
+    ],
+    "seasonTitle": "Seasonal Highlights",
+    "seasonSubtitle": "One green space, four tempers. Below, the greenery and scenes most worth expecting each season.",
+    "seasons": [
+      {
+        "icon": "🌱",
+        "badge": "SPRING",
+        "name": "Spring · New green & flowers",
+        "summary": "As it warms, chestnuts push new leaves and open upright white panicles in late spring — the best season for strolls and morning shots.",
+        "highlights": [
+          "Chestnut (마로니에) fresh green leaves, upright white flowers.",
+          "Boulevard not yet dense, softest light through.",
+          "Dewy grass at dawn, clearest reflections."
+        ]
+      },
+      {
+        "icon": "🌿",
+        "badge": "SUMMER",
+        "name": "Summer · Deep shade",
+        "summary": "Midsummer greens are lushest; chestnut shade forms arcades, a cool season for shade walks and shows.",
+        "highlights": [
+          "Boulevard shade, more comfortable feel.",
+          "Avoid midday sun; mornings and dusk.",
+          "Frequent stage shows, good for slow watching."
+        ]
+      },
+      {
+        "icon": "🍁",
+        "badge": "AUTUMN",
+        "name": "Autumn · Yellow leaves & fruit",
+        "summary": "The most storied season. Chestnut leaves yellow and fruit hang, dyeing the green a gold-green palette.",
+        "highlights": [
+          "Chestnut leaves yellow, boulevard gilded.",
+          "Conker fruit on branches.",
+          "Softest dusk light, highest photo rate."
+        ]
+      },
+      {
+        "icon": "❄️",
+        "badge": "WINTER",
+        "name": "Winter · Quiet branches",
+        "summary": "After foliage falls, branches are more open and quiet — a crisp season for urban skyline and morning light.",
+        "highlights": [
+          "Clear branch lines after leaf-fall.",
+          "Clear-day golden morning light on ground.",
+          "Dress warm and mind the boulevard breeze."
+        ]
+      }
+    ]
+  },
+  "audience": {
+    "title": "Who Should Come? Upgrade Segment Guides to Custom Itineraries",
+    "subtitle": "Not just 'you'll like it,' but directly telling you how to walk, where to go first, and which Seoul nodes to link.",
+    "resonanceLabel": "Resonance: ",
+    "routeLabel": "Recommended module: ",
+    "tipLabel": "Tip: ",
+    "items": [
+      {
+        "icon": "👨‍👩‍👧",
+        "group": "Families",
+        "resonance": "Free, open, flat boulevard — kids can watch sculptures, hear Daehak-ro stories, see street shows, and easily reach the stage along the flat side.",
+        "tip": "Spend energy on photo stops, not on crowding."
+      },
+      {
+        "icon": "📷",
+        "group": "Photographers & Couples",
+        "resonance": "Backlit boulevard at dawn is Seoul's most romantic frame, with a very high hit rate.",
+        "tip": "Count arrival, return, and light into the plan so composition isn't beaten by on-site pace."
+      },
+      {
+        "icon": "🎭",
+        "group": "Art & Performance Lovers",
+        "resonance": "As a drama-culture sample, Daehak-ro's street shows, open stage, and public sculptures are worth a close look.",
+        "tip": "Avoid the most crowded weekends; choose dawn or a weekday afternoon to really observe details."
+      },
+      {
+        "icon": "🗺️",
+        "group": "First-time Visitors to Korea",
+        "resonance": "Without going far, experience Korean drama culture and urban greenery in central Seoul, while linking metro, buses, and local food — an ideal start to Daehak-ro's 'drama and youth' character.",
+        "tip": "If you can only pick one central-Seoul landmark, Marronnier Park best opens the 'city and arts' theme."
+      }
+    ]
+  },
+  "lodging": {
+    "title": "Lodging Guide: Stay Close, or Stay Convenient",
+    "subtitle": "Seoul is a city where 'old capital, metropolis, and campus' coexist. We don't recommend specific hotels but help you parse two lodging patterns to choose what fits.",
+    "scenarioTitle": "Two choices, how to choose",
+    "options": [
+      {
+        "icon": "🎭",
+        "name": "Daehak-ro / Hyehwa area",
+        "role": "Closest to park & theaters",
+        "highlight": "Staying in Daehak-ro or Hyehwa (혜화) puts you a short walk from Marronnier Park, small theaters, and food alleys; the dawn shade and stage also suit travelers. Ideal for those focused on 'shade stroll + shows' with high convenience needs.",
+        "commute": "Commute: to the park about 5–10 min walk. Walking is easy on the legs, good for dawn shade walks.",
+        "points": [
+          "To the boulevard about 5–10 min walk, least effort.",
+          "Theaters, snacks, cafés extremely rich.",
+          "More choices, usually better value."
+        ]
+      },
+      {
+        "icon": "🏙️",
+        "name": "Seoul center / Myeongdong",
+        "role": "Best for food & hub",
+        "highlight": "Staying in central Seoul or Myeongdong (명동) puts metro hubs, commercial districts, and food streets at your door — ideal for 'green + transfer' travelers who head to Marronnier Park by metro by day.",
+        "commute": "Commute: Line 4 to Hyehwa about 10–20 minutes. Good for self-drivers or independent travelers wanting absolute convenience.",
+        "points": [
+          "Metro hub and districts at hand, good for transfers.",
+          "Food, cafés, night markets extremely rich.",
+          "To Marronnier Park by metro or short drive about 10–20 minutes."
+        ]
+      }
+    ],
+    "peakTitle": "Peak-season warning",
+    "peak": "Seoul's spring/autumn peak and clear weekends tighten rooms and raise prices as tourists flood in. Book weeks ahead; if booking near holidays, expand the range to nearby areas and travel by metro or train.",
+    "tipsTitle": "Lodging tips",
+    "tips": [
+      "For dawn shade and shows: prefer Daehak-ro / Hyehwa, walk to the park at dawn.",
+      "For convenience and food: choose central Seoul / Myeongdong, walk and dine at hand.",
+      "Before booking, confirm breakfast, parking, and EV chargers (key for self-drivers).",
+      "Peak seasons and holidays need advance planning to avoid no rooms or high prices."
+    ]
+  },
+  "downloads": {
+    "title": "Academic & Practical Resource Downloads",
+    "items": [
+      {
+        "icon": "📥",
+        "name": "Marronnier Park Culture Map.pdf",
+        "desc": "Detailed park layout & public facilities",
+        "url": "#"
+      },
+      {
+        "icon": "📥",
+        "name": "Daehak-ro Street Performance & Theater Map.pdf",
+        "desc": "Hardcore arts science & show distribution",
+        "url": "#"
+      },
+      {
+        "icon": "🗺️",
+        "name": "GPX track download",
+        "desc": "For hikers and neighborhood walkers to import into phone navigation",
+        "url": "#"
+      }
+    ]
+  },
+  "audioPlayer": {
+    "cta": "Click here to hear the performances drifting from Daehak-ro",
+    "title": "대학로의 거리 공연 (Daehak-ro Street Performance)"
+  }
+}
