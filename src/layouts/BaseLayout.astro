@@ -120,6 +120,15 @@ const jsonLd = {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+
+    <!-- Google Analytics (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-HXM22WWPKP');
+    </script>
     <link rel="alternate" hreflang="zh" href={alts.zh} />
     <link rel="alternate" hreflang="en" href={alts.en} />
     <link rel="alternate" hreflang="ja" href={alts.ja} />
